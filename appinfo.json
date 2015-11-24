@@ -51,7 +51,8 @@
     "shortName": "Directions",
     "targetPlatforms": [
         "aplite",
-        "basalt"
+        "basalt",
+        "chalk"
     ],
     "uuid": "7bd5ece7-dc19-450c-8088-c82e96af0e40",
     "versionCode": 1,
