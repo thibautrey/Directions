@@ -1,0 +1,68 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "Thibaut Rey",
+    "longName": "Directions",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/left-arrow.png",
+                "name": "IMAGES_LEFT_ARROW_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/right-arrow.png",
+                "name": "IMAGES_RIGHT_ARROW_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/airportBW.png",
+                "name": "IMAGES_AIRPORTBW_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/appIcon.png",
+                "menuIcon": true,
+                "name": "IMAGES_APPICON_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Directions",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "7bd5ece7-dc19-450c-8088-c82e96af0e40",
+    "versionCode": 1,
+    "versionLabel": "1.9",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
